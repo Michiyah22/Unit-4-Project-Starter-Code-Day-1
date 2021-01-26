@@ -1,0 +1,65 @@
+.header{
+  background: linear-gradient(to bottom, #9900cc 0%, #66ffcc 100%);
+
+}
+body{
+     background:#9900cc  ;
+}
+
+.public{
+    display:flex;
+    justify-content:space-around;
+    border:10px solid #66ffcc;
+    margin:5px;
+    padding:5px;
+    color:white;
+}
+
+.header{
+  text-align: center;
+  border:10px  gray;
+  Margin:5px;
+  padding:5px;
+  background-color:#ff0066;
+ font-family: 'Lobster', cursive;
+   color:black;
+}
+.post{
+    display:flex;
+    justify-content:flex-start;
+    border:2px;
+    padding:2px;
+    margin:5px;
+}
+
+.baby{
+ display:flex;
+ Justify-content:flex-start;
+  border:2px;
+  padding:2px;
+   margin:5px;
+}
+
+.yay{
+    display:flex;
+    Justify-content:flex-start;
+    border:2px;
+    padding:2px;
+    margin:2px;
+}
+
+.container{
+  display:flex;
+  justify-content:flex-start;
+border:2px;
+ padding:2px;
+    margin:2px;
+}
+
+img{
+  height:200px;
+  border:5px solid #66ffcc;
+  padding:2px;
+  margin:2px;
+}
+
